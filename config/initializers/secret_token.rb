@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-ROR::Application.config.secret_token = 'ae0a3c557fab7929c510c092525abf3eea38cb263f626d49bf57136371e4737f0942749765bbc7bf66845146b7741eb5854cf6eadea1d55f71b04b601e09d4e4'
+ROR::Application.config.secret_token = '8b46f0bd9399e3d5bd3b5dd9906bf59e95d3839d5711e80a6afc881cd4b23c6b976c1ebf209fd9186049ad998fbc7220ae7d762d1f1b85b8f4e67d2742a1db09'
